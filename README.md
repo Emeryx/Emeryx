@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Emeryx
-- 👀 I’m interested in Web development and data analysis
-- 🌱 I’m currently learning MongoDB, ExpressJS and data structures
+- 👀 I’m interested in Web development and Data analysis
+- 🌱 I’m currently learning PostgreSQL and Python
+- 🎮 I love to game and binge Netflix shows
 - 📫 How to reach me: @_emery on Discord
-- 😄 Pronouns: He / Him
 
 <!---
 Emeryx/Emeryx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
