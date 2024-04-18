@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emeryx
 - 👀 I’m interested in Web development and Data analysis
-- 🌱 I’m currently learning PostgreSQL and Python
+- 🌱 I’m currently learning ExpressJS, MongoDB and data structures
 - 🎮 I love to game and binge Netflix shows
 - 📫 How to reach me: @_emery on Discord
 
